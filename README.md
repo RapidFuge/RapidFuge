@@ -16,12 +16,6 @@ What i basically do is i pull open source projects and modify or put it into my 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/rapidfuge) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/rapidfuge)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapidfuge&theme=github_dark" />
-
-### My only public repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rapidfuge&repo=gcommandsfork&theme=github_dark)](https://github.com/rapidfuge/gcommandsfork)
-
-
 ### My stats
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=RapidFuge&show_icons=true&hide_border=true&theme=github_dark)
 
