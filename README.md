@@ -19,10 +19,6 @@ What i basically do is i pull open source projects and modify or put it into my 
 ### My stats
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=RapidFuge&show_icons=true&hide_border=true&theme=github_dark)
 
-
-### Goal i wont try to achive on 2022
-Learn more about node js, js, and probably learn more languages
-
 ### My social media stuff
 [![Personal Website Badge](https://img.shields.io/website-up-down-green-red/https/rapid.wtf)](https://rapid.wtf)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWHJwd5exNTLuZxoOxN2Jig)](https://www.youtube.com/channel/UCWHJwd5exNTLuZxoOxN2Jig)
