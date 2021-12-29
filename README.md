@@ -20,7 +20,7 @@ What i basically do is i pull open source projects and modify or put it into my 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=RapidFuge&show_icons=true&hide_border=true&theme=github_dark)
 
 ### My social media stuff
-[![Personal Website Badge](https://img.shields.io/website-up-down-green-red/https/rapid.wtf)](https://rapid.wtf)
+[![Personal Website Badge](https://img.shields.io/website-up-down-green-red/http/rapid.wtf)](http://rapid.wtf)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWHJwd5exNTLuZxoOxN2Jig)](https://www.youtube.com/channel/UCWHJwd5exNTLuZxoOxN2Jig)
 [![Gmail Badge](https://img.shields.io/badge/-rapidfugegt1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rapidfugegt1@gmail.com)](mailto:rapidfugegt1@gmail.com)
 ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)
