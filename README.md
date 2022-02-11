@@ -2,9 +2,6 @@
 ### About me
 Hello, I am RapidFuge a 14 year old Filipino from the :philippines: Philippines! I started "coding" in 2020 because i had nothing to do and i had free time.
 
-### What i do
-What i basically do is i pull open source projects and modify or put it into my code. It's what i do to pass time as a just for fun "coder". Since I'm just a just for fun "coder" i really don't like starting over. So i just either pull things off my code or others. I would love to do some true open source project some time, but not this year or the next. I very much hate python and typescript with a burning passion. If I mean EVER see anything typescript I will convert it to javascript like no tomorrow. Python users are just simply horrible.
-
 ### Languages and Tools
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/rapidfuge) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/rapidfuge) 
