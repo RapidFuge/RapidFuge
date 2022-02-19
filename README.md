@@ -7,7 +7,7 @@ Hello, I am RapidFuge a 14 year old Filipino from the :philippines: Philippines!
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/rapidfuge)](https://github.com/rapidfuge) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/rapidfuge)](https://github.com/rapidfuge) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/rapidfuge)](https://github.com/rapidfuge) 
-[![Tailwind](https://img.shields.io/badge/-Tailwind-14b8a6?style=flat&logo=tailwindcss&link=https://github.com/rapidfuge)](https://github.com/rapidfuge
+[![Tailwind](https://img.shields.io/badge/-Tailwind-14b8a6?style=flat&logo=tailwindcss&link=https://github.com/rapidfuge)](https://github.com/rapidfuge)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/rapidfuge)](https://github.com/rapidfuge) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/rapidfuge)](https://github.com/rapidfuge)
