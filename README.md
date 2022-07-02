@@ -1,6 +1,6 @@
  # <a href="https://github.com/rapidfuge">Hi, I'm RapidFuge</a>
 ### About me
-Hello, I am RapidFuge a 14 year old Filipino from the :philippines: Philippines! A Pull Stack Developer for the joy of it.
+I'm a pull stack developer. I just pull things off the internet and put it into my code.
 
 ### Languages and Tools
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/rapidfuge)](https://github.com/rapidfuge) 
