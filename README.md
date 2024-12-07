@@ -1,6 +1,6 @@
  # <a href="https://github.com/rapidfuge">Hi, I'm RapidFuge</a>
 ### About me
-I'm a pull stack developer. I just pull things off the internet and put it into my code.
+I'm a pull stack developer. I just pull things off the internet and put it into my code. Even that quote.
 
 ### Languages and Tools
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/rapidfuge)](https://github.com/rapidfuge) 
@@ -19,12 +19,9 @@ I'm a pull stack developer. I just pull things off the internet and put it into 
 
 ### My social media stuff
 [![Personal Website Badge](https://img.shields.io/website-up-down-green-red/https/rapidfuge.xyz)](https://rapidfuge.xyz)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWHJwd5exNTLuZxoOxN2Jig)](https://www.youtube.com/channel/UCWHJwd5exNTLuZxoOxN2Jig)
 [![Gmail Badge](https://img.shields.io/badge/-rapidfugegt1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rapidfugegt1@gmail.com)](mailto:rapidfugegt1@gmail.com)
-![Discord Badge](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)
 [![Steam Badge]( 	https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&link=https://steamcommunity.com/id/rapidfuge/)](https://steamcommunity.com/id/rapidfuge/)
 [![Reddit Badge](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/RapidFuge)
-[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/rapidfuge)
 
 <p align="center"> 
   Visitor count<br>
