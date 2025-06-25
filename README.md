@@ -11,6 +11,7 @@ I'm a (future) Computer Engineer with a focus on backend systems. I build and ma
 [![Tailwind](https://img.shields.io/badge/-Tailwind-14b8a6?style=flat-square&logo=tailwindcss&link=https://github.com/rapidfuge)](https://github.com/rapidfuge)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/rapidfuge)](https://github.com/rapidfuge)
+[![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno&link=https://github.com/rapidfuge)](https://github.com/rapidfuge)
 [![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&link=https://github.com/rapidfuge)](https://github.com/rapidfuge)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/rapidfuge)](https://github.com/rapidfuge)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/rapidfuge)](https://github.com/rapidfuge) 
