@@ -19,15 +19,14 @@ I'm a (future) Computer Engineer with a focus on backend systems. I build and ma
 
 ### My stats
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=RapidFuge&show_icons=true&hide_border=true&theme=github_dark)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapidfuge&layout=compact&theme=github_dark&hide_border=true)
 
-### My social media stuff
-[![Personal Website Badge](https://img.shields.io/website-up-down-green-red/https/fuge.dev?style=flat-square)](https://fuge.dev)
-[![Gmail Badge](https://img.shields.io/badge/-rapidfugegt1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rapidfugegt1@gmail.com)](mailto:rapidfugegt1@gmail.com)
-[![Steam Badge](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&link=https://steamcommunity.com/id/rapidfuge?style=flat-square)](https://steamcommunity.com/id/rapidfuge/)
-[![Reddit Badge](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/RapidFuge)
+### Contact
+[![Personal Website Badge](https://img.shields.io/website-up-down-green-red/https/fuge.dev?style=flat-square&logo=local&logoColor=white)](https://fuge.dev)
+[![Proton Badge](https://img.shields.io/badge/-rapidfuge@proton.me-7C4DFF?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:rapidfuge@proton.me)](mailto:rapidfuge@proton.me)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rapidfuge/count.svg" />
-</p>
-
+<!-- <p align="center"> 
+#   Visitor count<br>
+#   <img src="https://profile-counter.glitch.me/rapidfuge/count.svg" />
+# </p>
+-->
