@@ -23,7 +23,7 @@ I'm a (future) Computer Engineer with a focus on backend systems. I build and ma
 
 ### Contact
 [![Personal Website Badge](https://img.shields.io/website-up-down-green-red/https/fuge.dev?style=flat-square&logo=local&logoColor=white)](https://fuge.dev)
-[![Proton Badge](https://img.shields.io/badge/-rapidfuge@proton.me-7C4DFF?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:rapidfuge@proton.me)](mailto:rapidfuge@proton.me)
+[![Proton Badge](https://img.shields.io/badge/-rapid@fuge.dev-7C4DFF?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:rapid@fuge.dev)](mailto:rapid@fuge.dev)
 
 <!-- <p align="center"> 
 #   Visitor count<br>
